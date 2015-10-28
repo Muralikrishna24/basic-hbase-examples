@@ -1,4 +1,4 @@
-package com.nearinfinity.explore.hbase.samples.basic;
+//package com.nearinfinity.explore.hbase.samples.basic;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
